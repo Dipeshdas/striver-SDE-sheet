@@ -56,6 +56,7 @@ public class Solution {
         //     ptr1=ptr1.next;
         //     ptr2=ptr2.next;
         // }
+        //return ptr1;
 
         //One pass Solution-------------------------
 
