@@ -16,7 +16,6 @@ class Node{
         right=null;
     }
 }
-
 class GfG {
     
     static Node buildTree(String str){
